@@ -4,9 +4,9 @@
   "description": "Real time location tracker server",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node index.js",
+    "start": "node index.js"
   },
-  "start": "node index",
   "keywords": [
     "ionic2",
     "ionic2-chat",
