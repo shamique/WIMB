@@ -14,6 +14,6 @@ var server_port = process.env.PORT || 8080;
 
 server.listen(server_port, function () {
 
-    console.log( "Listening on ", server_port " + server_port  );
+    console.log( 'Server listening on: http://localhost:%s', server_port);
 
 });
